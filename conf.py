@@ -20,7 +20,7 @@ author = 'lqik2004'
 copyright = '2012, ' + author         
 
 # Change this to your blog root URL (required for RSS feed)
-website = 'http://127.0.0.1/blog/html/'                              
+website = 'http://lqik2004.github.com/Howto-Make-E-Books/'                              
 
 # **************************************************************
 # More tweaks you can do
