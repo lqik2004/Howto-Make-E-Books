@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{world:[0,1],"\u7528rest\u4f5c\u4e3a\u6807\u8bb0\u8bed\u8a00\u4e66\u5199":1,hello:[0,1],sitemap:0,"\u672c\u535a\u5ba2\u7cfb\u7edf\u7528tinker\u652f\u6301":1},objtypes:{},titles:["Sitemap","Hello World"],objnames:{},filenames:["master","2012/03/21/hello_world"]})
