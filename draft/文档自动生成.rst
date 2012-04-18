@@ -1,0 +1,11 @@
+=================
+Read The Docs
+=================
+
+.. Read the Docs hosts documentation for the open source community. It supports Sphinx docs written with reStructuredText, and can pull from your Subversion, Bazaar, Git, and Mercurial repositories. The code is open source, and available on github.
+
+Read the Docs提供了一个免费的文档生成服务，它可以把Hosts在版本管理系统中的文档自动生成。
+
+它支持用reST编写用Sphinx生成的文档，能够从SVN Bazaar Git HG中拉取。
+
+有了Read the Docs，你可以很容易的生成一个可以在线浏览的文档库。配合版本管理系统，用作文档的在线书写在线浏览是再适合不过了。
